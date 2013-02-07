@@ -1,0 +1,16 @@
+{
+    "name": "hot-reload",
+    "description": "Triggers reloading of Node.js modules",
+    "version": "1.0.0",
+    "homepage": "https://github.com/philidem/node-hot-reload",
+    "authors": [
+        {
+            "name": "Phil Gates-Idem",
+            "email": "phillip.gates-idem@gmail.com"
+        }
+    ],
+    "main": "./lib/hot-reload/hot-reload",
+    "dependencies": {
+        "directory-walker" : "1.0.0"
+    }
+}
