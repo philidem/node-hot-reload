@@ -11,6 +11,6 @@
     ],
     "main": "./lib/hot-reload/hot-reload",
     "dependencies": {
-        "directory-walker" : "1.1.0"
+        "directory-walker" : "1.1.1"
     }
 }
