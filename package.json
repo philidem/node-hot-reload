@@ -1,7 +1,7 @@
 {
     "name": "hot-reload",
     "description": "Triggers reloading of Node.js modules",
-    "version": "1.2.0",
+    "version": "1.2.1",
     "homepage": "https://github.com/philidem/node-hot-reload",
     "authors": [
         {
@@ -11,6 +11,6 @@
     ],
     "main": "./lib/hot-reload/hot-reload",
     "dependencies": {
-        "directory-walker" : "1.1.1"
+        "directory-walker" : "1.2.x"
     }
 }
