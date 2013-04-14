@@ -1,16 +1,20 @@
 {
-    "name": "hot-reload",
-    "description": "Triggers reloading of Node.js modules",
-    "version": "1.2.1",
-    "homepage": "https://github.com/philidem/node-hot-reload",
-    "authors": [
-        {
-            "name": "Phil Gates-Idem",
-            "email": "phillip.gates-idem@gmail.com"
-        }
-    ],
-    "main": "./lib/hot-reload/hot-reload",
-    "dependencies": {
-        "directory-walker" : "1.2.x"
+  "name": "hot-reload",
+  "description": "Triggers reloading of Node.js modules",
+  "version": "1.2.2",
+  "homepage": "https://github.com/philidem/node-hot-reload",
+  "authors": [
+    {
+      "name": "Phil Gates-Idem",
+      "email": "phillip.gates-idem@gmail.com"
+    },
+    {
+      "name": "Patrick Steele-Idem",
+      "email": "pnidem@gmail.com"
     }
+  ],
+  "main": "./lib/hot-reload/hot-reload",
+  "dependencies": {
+    "directory-walker": "1.2.x"
+  }
 }
