@@ -15,6 +15,7 @@
   ],
   "main": "./lib/hot-reload/hot-reload",
   "dependencies": {
-    "directory-walker": "1.2.x"
+    "directory-walker": "1.2.x",
+    "path-filters": "1.0.x"
   }
 }
