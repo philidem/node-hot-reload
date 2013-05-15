@@ -1,7 +1,7 @@
 {
   "name": "hot-reload",
   "description": "Triggers reloading of Node.js modules",
-  "version": "1.2.7",
+  "version": "1.2.8",
   "homepage": "https://github.com/philidem/node-hot-reload",
   "authors": [
     {
