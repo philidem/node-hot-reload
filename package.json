@@ -17,5 +17,8 @@
   "dependencies": {
     "directory-walker": "1.2.x",
     "path-filters": "1.0.x"
+  },
+  "publishConfig": {
+    "registry": "http://registry.npmjs.org/"
   }
 }
