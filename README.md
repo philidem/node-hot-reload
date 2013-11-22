@@ -1,7 +1,7 @@
 node-hot-reload
 ===============
 
-Utility code for watching for source file and changes and reloading modules
+Utility code for watching source files for changes and reloading modules
 
 # Installation:
 ```
