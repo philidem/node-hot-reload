@@ -13,12 +13,17 @@
       "email": "pnidem@gmail.com"
     }
   ],
-  "main": "./lib/hot-reload/hot-reload",
+  "main": "./lib/index.js",
   "dependencies": {
     "directory-walker": "1.2.x",
-    "path-filters": "1.0.x"
+    "path-filters": "1.0.x",
+    "jsonminify": "~0.2.3",
+    "property-handlers": "~0.1.0"
   },
   "publishConfig": {
     "registry": "http://registry.npmjs.org/"
+  },
+  "bin": {
+    "hot-reload": "./bin/hot-reload"
   }
 }

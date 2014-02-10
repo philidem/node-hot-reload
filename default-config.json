@@ -1,0 +1,15 @@
+{
+    "watch": [
+        "src/",
+        "lib/",
+        "server.js",
+        "index.js"
+    ],
+    "logging-enabled": true,
+    "plugins": {
+        "hot-reload-module-uncache": {
+            "enabled": true,
+            "uncache": "*", // Uncache all cached Node modules
+        }
+    }
+}
