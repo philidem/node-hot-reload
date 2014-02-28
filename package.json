@@ -1,7 +1,7 @@
 {
   "name": "hot-reload",
   "description": "Triggers reloading of Node.js modules",
-  "version": "1.4.0-beta",
+  "version": "1.4.1-beta",
   "homepage": "https://github.com/philidem/node-hot-reload",
   "authors": [
     {
