@@ -6,6 +6,7 @@
         "index.js"
     ],
     "logging-enabled": true,
+    "restart": true,
     "plugins": {
         "hot-reload-module-uncache": {
             "enabled": true,
