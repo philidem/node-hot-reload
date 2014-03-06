@@ -1,8 +1,10 @@
 {
     "watch": [
+        "config/",
         "src/",
         "lib/",
         "server.js",
+        "routes.js",
         "index.js"
     ],
     "logging-enabled": true,
