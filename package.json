@@ -17,7 +17,7 @@
   "dependencies": {
     "directory-walker": "1.2.x",
     "path-filters": "1.0.x",
-    "jsonminify": "~0.2.3",
+    "jsonminify": "^0.2.3",
     "property-handlers": "~0.1.0",
     "q": "~1.0.0"
   },
