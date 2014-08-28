@@ -7,8 +7,5 @@
         "routes.js",
         "index.js"
     ],
-    "logging-enabled": true,
-    "restart": true,
-    "plugins": {
-    }
+    "logging-enabled": true
 }
